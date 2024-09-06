@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="Animated Banner GIF" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Udayagiri Malani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
